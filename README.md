@@ -1,1 +1,1 @@
-# book-llm-master-openai-cookbook
+# llm-master-openai-cookbook

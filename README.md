@@ -18,11 +18,7 @@
 
 OpenAI API는 그 자체로도 충분히 강력하지만, 그 잠재력을 최대한 끌어내기 위해서는 어떻게 설계하고, 어떻게 호출하고, 어떻게 통합할 것인가에 대한 명확한 로드맵이 필요하다. 이 책은 바로 그 로드맵을 제공한다. 이제 여러분의 아이디어에 AI를 더하고, 새로운 가능성을 현실로 만들었으면 합니다.
 
-### 
-
-[](https://www.ai-master-book.com/llm-master-book/openai-api-with-python#undefined-1)
-
-목 차
+### 목 차
 
 ---
 
@@ -54,19 +50,11 @@ Table of Contents
 
 References. 참고문헌
 
-#### 
-
-[](https://www.ai-master-book.com/llm-master-book/openai-api-with-python#e-book)
-
-E-Book 구매
+#### E-Book 구매
 
 ---
 
-#### 
-
-[](https://www.ai-master-book.com/llm-master-book/openai-api-with-python#github)
-
-Github 코드
+#### Github 코드
 
 ---
 

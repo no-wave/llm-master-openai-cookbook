@@ -1,6 +1,7 @@
 # OpenAI API 쿡북 with Python
----
 AI 전문가를 위한 Python으로 시작하는 LLM 구축 OpenAI API 실전 가이드
+
+### 책소개
 
 『LLM Master: OpenAI API 쿡북 with Python』은 생성형 AI와 대규모 언어 모델(LLM)의 실전 활용법을 배우고자 하는 사람들을 위한 기술서다. 이 책은 단순히 기능을 나열하는 참고서가 아니라, AI를 직접 구현하고 이용하고자 하는 이들에게 구체적인 방법론과 도구를 제공하는 실습 중심의 안내서다.
 

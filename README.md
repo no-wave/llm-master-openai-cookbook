@@ -1,6 +1,8 @@
 # OpenAI API 쿡북 with Python
 AI 전문가를 위한 Python으로 시작하는 LLM 구축 OpenAI API 실전 가이드
 
+![image](https://beat-by-wire.gitbook.io/beat-by-wire/~gitbook/image?url=https%3A%2F%2F3055094660-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252FYzxz4QeW9UTrhrpWwKiQ%252Fuploads%252FBjrYQxSBpId8Op4we1ar%252FLLM%2520Master%2520-%2520OpenAI%2520API%2520%25E1%2584%258F%25E1%2585%25AE%25E1%2586%25A8%25E1%2584%2587%25E1%2585%25AE%25E1%2586%25A8%2520with%2520Python.png%3Falt%3Dmedia%26token%3Db647dd49-9223-4b83-a401-c7030550bbb7&width=300&dpr=4&quality=100&sign=2d774db1&sv=2)
+
 ## 책소개
 
 『LLM Master: OpenAI API 쿡북 with Python』은 생성형 AI와 대규모 언어 모델(LLM)의 실전 활용법을 배우고자 하는 사람들을 위한 기술서다. 이 책은 단순히 기능을 나열하는 참고서가 아니라, AI를 직접 구현하고 이용하고자 하는 이들에게 구체적인 방법론과 도구를 제공하는 실습 중심의 안내서다.
@@ -52,7 +54,9 @@ Table of Contents
 References. 참고문헌
 
 ## E-Book 구매
-
+- Yes24: https://www.yes24.com/product/goods/147790899
+- 교보문고: https://ebook-product.kyobobook.co.kr/dig/epd/ebook/E000011607708
+- 알라딘: https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=366821532
 
 ## Github 코드
 
